@@ -1,0 +1,24 @@
+# build files
+[Bb]uild*/
+[Bb]in/
+[Ll]ib/
+[Dd]ebug/
+[Rr]elease/
+[Oo]ut/
+x64/
+[Ww]in32/
+
+# IDE files
+.vs/
+
+# other
+[Ii]gnore/
+*.[Ii]gnore*
+*[Tt][Oo][Dd][Oo]*
+.[Ll]og
+
+# backup files
+backup/
+*.bk
+*.bak
+*.bkp
