@@ -1,6 +1,6 @@
 # SSTest (Super Simple Test): A C++ Unit Testing Library
 
-[sstest](https://github.com/user-attachments/assets/f540cdb9-bb73-4482-8d18-c2aac26b3eaf)
+![sstest](https://github.com/user-attachments/assets/f540cdb9-bb73-4482-8d18-c2aac26b3eaf)
 
 ## Welcome!
 
